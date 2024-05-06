@@ -4,10 +4,14 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+ENG
+
 This repository contains the PCB and CAD files for the Gorila Pad, a Raspberry Pi Pico based 3 key keypad for Osu!
 
 This hardware is designed specifically to work with Mini's open-source firmware,</br>
 which can be found in their GitHub repository [here](https://github.com/minipadkb/minipad-firmware). </br>
+
+PT-BR
 
 Esse repositório contém os arquivos da PCB e CAD para o Gorila Pad, um Keypad de 3 teclas para Osu! baseado no Raspberry Pi Pico.
 
@@ -40,7 +44,9 @@ Todos esses arquivos são de uso livre, você está livre para modificá-los com
 
 ![BACK](https://i.postimg.cc/85gcf1Rz/Captura-de-tela-2024-05-05-210850.png)
 
+![PCB TOP](https://i.postimg.cc/rpmgkLxX/Captura-de-tela-2024-05-06-071141.png).
 
+![PCB BOTTOM](https://i.postimg.cc/T17YBg6X/Captura-de-tela-2024-05-06-071152.png).
 
 
 
