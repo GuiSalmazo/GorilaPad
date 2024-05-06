@@ -36,7 +36,7 @@ Todos esses arquivos são de uso livre, você está livre para modificá-los com
 
 # Pictures / Fotos
 
-![KEYPAD](https://ibb.co/QYhTfQc)
+![KEYPAD](https://i.postimg.cc/jj7CjWJ1/Captura-de-tela-2024-05-05-210809.png)
 
 
 
