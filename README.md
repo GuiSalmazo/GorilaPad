@@ -23,7 +23,8 @@ que pode ser encontrado no repositório dele GitHub [aqui](https://github.com/mi
 # Development Tools / Ferramentas de Desenvolvimento
 
 -CATIA V5R21 (CAD PROGRAM)  </br>
--KiCAD (ELECTRONIC DIAGRAM AND PCB)
+-KiCAD (ELECTRONIC DIAGRAM AND PCB) </br>
+-Ultimaker Cura (SLICER FOR 3D PRINTING)
 
 # Bill Of Materials / Lista de Materiais
 
