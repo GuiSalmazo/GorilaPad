@@ -41,6 +41,8 @@ Todos esses arquivos são de uso livre, você está livre para modificá-los com
 
 # Pictures / Fotos
 
+![EXPLODIDA](https://i.postimg.cc/G2hhvpHb/Captura-de-tela-2024-05-12-222616.png)
+
 ![KEYPAD](https://i.postimg.cc/jj7CjWJ1/Captura-de-tela-2024-05-05-210809.png)
 
 ![BACK](https://i.postimg.cc/85gcf1Rz/Captura-de-tela-2024-05-05-210850.png)
